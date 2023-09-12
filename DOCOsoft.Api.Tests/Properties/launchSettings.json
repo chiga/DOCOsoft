@@ -1,0 +1,12 @@
+{
+  "profiles": {
+    "DOCOsoft.Api.Tests": {
+      "commandName": "Project",
+      "launchBrowser": true,
+      "environmentVariables": {
+        "ASPNETCORE_ENVIRONMENT": "Development"
+      },
+      "applicationUrl": "https://localhost:12340;http://localhost:12341"
+    }
+  }
+}
